@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+.pokemon-card {
+  padding: 20px;
+}
+
+body {
+  background-color: #fff;
+}
+
 h1 {
   text-transform: capitalize;
 }
